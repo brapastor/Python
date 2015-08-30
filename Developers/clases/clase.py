@@ -13,4 +13,6 @@ class MiClase:
         return "hola mundo"
 
 x = MiClase()  # INSTANCIACION DE LA CLASE
-print(x)
+xf= x.f()
+while True:
+    print(xf)
